@@ -15,3 +15,9 @@ git init;
 5. git diff 哪里发生了更改;
 
 6. git commit -m "一定要写注释"  在暂存区里把代码放入本地仓库产生版本;（每次内容更新后都要写）
+7. git reset --hard 版本号   版本还原;
+
+8. git log  查看版本号信息;
+   git reflog 查看简要版本信息;
+
+9. ** git remote add origin 项目路径;
